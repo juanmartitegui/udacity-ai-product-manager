@@ -1,5 +1,4 @@
-# udacity-ai-product-manager
-## My Projects from Udacity Product Manager Program
+# Udacity AI Product Manager Projects Repo
 
 File repository of my projects and assigments for this program.
 
